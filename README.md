@@ -70,5 +70,9 @@ CREATE ONE WITH GMAIL
 
 - NEXT STEP
 
-[![STAR-MD-V2]()](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
+[![STAR-MD-V2](https://i.imgur.com/q1HgvHC.jpeg)](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
 </p>
+
+WOW 🤩 YOU'VE GOTTEN YOUR BOT
+
+©Xcelsama
