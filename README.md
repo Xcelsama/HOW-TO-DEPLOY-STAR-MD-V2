@@ -13,3 +13,5 @@ CREATE ONE WITH GMAIL
 
 [![STAR-MD-V2](https://i.imgur.com/f7T9ixY.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
 </p>
+
+- WAIT FOR REPL TO 👢BOOT
