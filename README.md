@@ -63,8 +63,8 @@ CREATE ONE WITH GMAIL
 </p>
 
 - NEXT STEP 
-SCROLL DOWN
-
+(SCROLL DOWN) 
+- SOME BUNCH OF CODE WILL RUN DEPLOYING YOUR APP(BOT)WAIT DON'T EXIT
 [![STAR-MD-V2](https://i.imgur.com/occYPju.jpeg)](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
 </p>
 
