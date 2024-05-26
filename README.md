@@ -40,3 +40,7 @@ CREATE ONE WITH GMAIL
 [![STAR-MD-V2](https://i.imgur.com/5iCVaYb.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
 </p>
 
+- NEXT STEP
+[![STAR-MD-V2](https://i.imgur.com/JjHAT1h.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
+</p>
+
