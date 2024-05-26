@@ -53,3 +53,7 @@ CREATE ONE WITH GMAIL
  [DEPLOY STAR-MD-V2](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2')
 </p>
 
+- NEXT STEP
+[![STAR-MD-V2](https://i.imgur.com/Ref9c2t.jpeg)](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
+</p>
+
