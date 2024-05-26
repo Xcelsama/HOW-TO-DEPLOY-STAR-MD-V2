@@ -7,6 +7,9 @@ CREATE ONE WITH GMAIL
 
 
 
- [RUN REPL](https://i.imgur.com/f7T9ixY.jpeg) 
+ [RUN REPL](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app) 
+
+
+
 [![STAR-MD-V2](https://i.imgur.com/f7T9ixY.jpeg)](https://wa.me/2347045035241)
 </p>
