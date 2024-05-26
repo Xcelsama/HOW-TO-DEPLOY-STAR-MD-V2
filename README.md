@@ -48,3 +48,7 @@ CREATE ONE WITH GMAIL
 [![STAR-MD-V2](https://i.imgur.com/zlSfhZb.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
 </p>
 
+- NEXT STEP
+[DEPLOY STAR-MD-V2](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2')
+</p>
+
