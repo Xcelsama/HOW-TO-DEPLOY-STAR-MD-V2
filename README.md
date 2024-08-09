@@ -2,7 +2,7 @@
 
 ---
 
-▶ HEROKU METHOD
+▶ Render Deployment
 - **FIRST STEP:**  
   YOU NEED TO HAVE A HEROKU ACCOUNT WITH PAYMENT METHOD/MEANS ADDED🤝
   
@@ -60,16 +60,6 @@
 
   ![STAR-MD-V2](https://i.imgur.com/OlOYk9o.jpeg)
 
-- **NEXT STEP**
-  - (SCROLL DOWN)
-  - SOME BUNCH OF CODE WILL RUN DEPLOYING YOUR APP(BOT)  
-    WAIT, DON'T EXIT
-
-  ![STAR-MD-V2](https://i.imgur.com/occYPju.jpeg)
-
-- **NEXT STEP**
-
-  ![STAR-MD-V2](https://i.imgur.com/q1HgvHC.jpeg)
 
 WOW 🤩 YOU'VE GOTTEN YOUR BOT
 
