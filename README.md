@@ -1,78 +1,79 @@
+
+
+---
+
 ▶ HEROKU METHOD
-- FIRST STEP
-YOU NEED TO HAVE A HEROKU ACCOUNT WITH PAYMENT METHOD/MEANS ADDED🤝
-- SECOND STEP
-YOU RUN REPL OÑ REPLIT SO YOU NEED REPLIT ACCOUNT😑
-CREATE ONE WITH GMAIL
-- TAP LINK ⬇⬇⬇BELOW
+- **FIRST STEP:**  
+  YOU NEED TO HAVE A HEROKU ACCOUNT WITH PAYMENT METHOD/MEANS ADDED🤝
+  
+- **SECOND STEP:**  
+  YOU RUN REPL OÑ REPLIT SO YOU NEED REPLIT ACCOUNT😑  
+  CREATE ONE WITH GMAIL  
+  - TAP LINK ⬇⬇⬇BELOW
+  
+  [RUN REPL](https://replit.com/@Xcelsama/STAR-BOT-PAIRr?s=app)
 
+  ![STAR-MD-V2](https://i.imgur.com/f7T9ixY.jpeg)
 
- [RUN REPL](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app) 
+- **WAIT FOR REPL TO 👢BOOT**
 
+- **NEXT STEP**
 
+  ![STAR-MD-V2](https://i.imgur.com/ttVdQZd.jpeg)
 
-[![STAR-MD-V2](https://i.imgur.com/f7T9ixY.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+- **NEXT STEP**
 
-- WAIT FOR REPL TO 👢BOOT
+  ![STAR-MD-V2](https://i.imgur.com/uinDwsA.jpeg)
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/ttVdQZd.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+- **NEXT STEP**
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/uinDwsA.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+  ![STAR-MD-V2](https://i.imgur.com/EURpO3Q.jpeg)
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/EURpO3Q.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+- **NEXT STEP**
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/9qwyT1e.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+  ![STAR-MD-V2](https://i.imgur.com/9qwyT1e.jpeg)
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/zDrmhic.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+- **NEXT STEP**
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/5iCVaYb.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+  ![STAR-MD-V2](https://i.imgur.com/zDrmhic.jpeg)
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/JjHAT1h.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+- **NEXT STEP**
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/zlSfhZb.jpeg)](https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app)
-</p>
+  ![STAR-MD-V2](https://i.imgur.com/5iCVaYb.jpeg)
 
-- NEXT STEP
+- **NEXT STEP**
 
- [DEPLOY STAR-MD-V2](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2')
-</p>
+  ![STAR-MD-V2](https://i.imgur.com/JjHAT1h.jpeg)
 
-- NEXT STEP
-[![STAR-MD-V2](https://i.imgur.com/Ref9c2t.jpeg)](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
-</p>
+- **NEXT STEP**
 
-- NEXT STEP
-- SCROLL DOWN
-[![STAR-MD-V2](https://i.imgur.com/OlOYk9o.jpeg)](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
-</p>
+  ![STAR-MD-V2](https://i.imgur.com/zlSfhZb.jpeg)
 
-- NEXT STEP 
-(SCROLL DOWN) 
-- SOME BUNCH OF CODE WILL RUN DEPLOYING YOUR APP(BOT)WAIT DON'T EXIT
-[![STAR-MD-V2](https://i.imgur.com/occYPju.jpeg)](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
-</p>
+- **NEXT STEP**
 
-- NEXT STEP
+  [DEPLOY STAR-MD-V2](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
 
-[![STAR-MD-V2](https://i.imgur.com/q1HgvHC.jpeg)](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
-</p>
+  ![STAR-MD-V2](https://i.imgur.com/Ref9c2t.jpeg)
+
+- **NEXT STEP**
+  - SCROLL DOWN
+
+  ![STAR-MD-V2](https://i.imgur.com/OlOYk9o.jpeg)
+
+- **NEXT STEP**
+  - (SCROLL DOWN)
+  - SOME BUNCH OF CODE WILL RUN DEPLOYING YOUR APP(BOT)  
+    WAIT, DON'T EXIT
+
+  ![STAR-MD-V2](https://i.imgur.com/occYPju.jpeg)
+
+- **NEXT STEP**
+
+  ![STAR-MD-V2](https://i.imgur.com/q1HgvHC.jpeg)
 
 WOW 🤩 YOU'VE GOTTEN YOUR BOT
 
 ©Xcelsama
+
+---
+
