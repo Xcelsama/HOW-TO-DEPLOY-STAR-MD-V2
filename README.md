@@ -49,21 +49,6 @@
 
   ![STAR-MD-V2](https://i.imgur.com/zlSfhZb.jpeg)
 
-- **NEXT STEP**
-
-  [DEPLOY STAR-MD-V2](https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-V2)
-
-  ![STAR-MD-V2](https://i.imgur.com/Ref9c2t.jpeg)
-
-- **NEXT STEP**
-  - SCROLL DOWN
-
-  ![STAR-MD-V2](https://i.imgur.com/OlOYk9o.jpeg)
-
-
-WOW 🤩 YOU'VE GOTTEN YOUR BOT
-
-©Xcelsama
-
+COPY THE SESSION_ID AND PUT IN THE RENDER VARIABLE YOU'LL ADD ON RENDER
 ---
 
